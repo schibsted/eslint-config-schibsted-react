@@ -25,7 +25,6 @@ module.exports = {
     react/jsx-uses-vars
     react/no-danger
     react/no-deprecated
-    react/no-did-mount-set-state
     react/no-did-update-set-state
     react/no-is-mounted
     react/no-multi-comp
