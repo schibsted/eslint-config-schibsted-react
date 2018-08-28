@@ -64,7 +64,7 @@ module.exports = {
         'react/jsx-uses-react': 'error',
         'react/jsx-uses-vars': 'error',
         'react/jsx-wrap-multilines': 'error',
-        'react/no-did-mount-set-state': 'error',
+        'react/no-did-mount-set-state': 'off',
         'react/no-did-update-set-state': 'error',
         'react/no-multi-comp': 'error',
         'react/no-unknown-property': 'warn',
